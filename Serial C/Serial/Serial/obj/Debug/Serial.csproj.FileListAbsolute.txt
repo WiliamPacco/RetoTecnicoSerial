@@ -1,0 +1,6 @@
+C:\Users\kei40\RiderProjects\Serial\Serial\bin\Debug\Serial.exe
+C:\Users\kei40\RiderProjects\Serial\Serial\bin\Debug\Serial.pdb
+C:\Users\kei40\RiderProjects\Serial\Serial\obj\Debug\Serial.csproj.AssemblyReference.cache
+C:\Users\kei40\RiderProjects\Serial\Serial\obj\Debug\Serial.csproj.CoreCompileInputs.cache
+C:\Users\kei40\RiderProjects\Serial\Serial\obj\Debug\Serial.exe
+C:\Users\kei40\RiderProjects\Serial\Serial\obj\Debug\Serial.pdb
